@@ -1,6 +1,6 @@
 
 # Roland Greene Murder Investigation  
-![Case File Banner](images/Case Banner.png)
+![Case File Banner](images/Case_Banner.png)
 ## SQL Portfolio Project
 
 A **portfolio SQL project** demonstrating advanced data analysis, forensic reasoning, and real-world problem solving.  
