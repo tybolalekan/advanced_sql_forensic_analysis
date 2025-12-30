@@ -143,5 +143,3 @@ Data Analyst | SQL | Power BI | Excel
 This project was completed as part of a **Data Analytics Mentorship Program** and is intended for portfolio and recruiter review.
 
 ---
-
-⭐ If this project aligns with your team’s needs, feel free to explore the queries and reports.
