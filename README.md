@@ -1,5 +1,5 @@
 
-# 🔍 Roland Greene Murder Investigation  
+# Roland Greene Murder Investigation  
 ## SQL Portfolio Project
 
 A **portfolio SQL project** demonstrating advanced data analysis, forensic reasoning, and real-world problem solving.  
@@ -17,7 +17,7 @@ This project applies **advanced SQL techniques** to solve a fictional murder inv
 
 ---
 
-## 🧠 Project Summary
+##  Project Summary
 
 - **Scenario:** Fictional murder investigation  
 - **Objective:** Identify the killer among 30 suspects using data  
@@ -27,7 +27,7 @@ This project applies **advanced SQL techniques** to solve a fictional murder inv
 
 ---
 
-## 📊 Datasets Overview
+##  Datasets Overview
 
 | Dataset | Description |
 |------|------------|
@@ -40,7 +40,7 @@ These datasets simulate **real investigative data** with inconsistencies, false 
 
 ---
 
-## 🔍 Analytical Approach
+##  Analytical Approach
 
 ### 1. Data Preparation
 - Imported raw CSV files into Microsoft SQL Server
@@ -70,7 +70,7 @@ Developed a multi-factor scoring framework to rank suspects:
 
 ## 🧾 Key Result
 
-### ✅ Identified Killer: **Jamie Bennett**  
+###  Identified Killer: **Jamie Bennett**  
 **Role:** Cleaner  
 **Reason:** Opportunity through unrestricted access and proven false alibi  
 
@@ -84,7 +84,7 @@ This conclusion was supported entirely through **data-driven evidence**, not ass
 
 ---
 
-## 💻 SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 
 - Advanced `JOIN` operations across multiple tables  
 - Common Table Expressions (CTEs) for layered analysis  
@@ -98,7 +98,7 @@ All queries are modular, readable, and reusable.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 roland-greene-murder-investigation/
@@ -112,7 +112,7 @@ roland-greene-murder-investigation/
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. Clone the repository  
 2. Create a SQL database  
@@ -123,7 +123,7 @@ This allows reviewers to **reproduce every step** of the analysis.
 
 ---
 
-## 🧠 Skills Highlighted
+##  Skills Highlighted
 
 - SQL data analysis & optimization  
 - Investigative and analytical reasoning  
@@ -134,9 +134,9 @@ This allows reviewers to **reproduce every step** of the analysis.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Toyyib A. Olalekan**  
+**Toyyib Olalekan**  
 Data Analyst | SQL | Power BI | Excel  
 
 This project was completed as part of a **Data Analytics Mentorship Program** and is intended for portfolio and recruiter review.
